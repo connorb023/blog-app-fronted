@@ -13,6 +13,8 @@
  
 [Trello Board](https://trello.com/b/OjVGHIe1/blog-app)
 
+[Pitch Deck](https://my.visme.co/view/kk0k0343-blog-app)
+
 [Click here to Open App](https://singular-concha-4ee1d0.netlify.app)
 
 
