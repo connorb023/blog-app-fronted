@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoiscaleb&label=Profile%20views&color=0e75b6&style=flat" alt="whoiscaleb" /> </p>
 
 # Screenshots: 
-![image]
+![image] ![Screenshot 2023-05-22 at 10 56 16 PM](https://github.com/connorb023/blog-app-fronted/assets/126698422/aba2f490-c3ff-450a-9e55-2c2cabc8929d)
+
 ![image]
 
 
