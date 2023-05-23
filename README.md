@@ -13,7 +13,7 @@
  
 [Trello Board](https://trello.com/b/OjVGHIe1/blog-app)
 
-[Click here to Open app] (https://singular-concha-4ee1d0.netlify.app)
+Click here to Open App [https://singular-concha-4ee1d0.netlify.app](https://singular-concha-4ee1d0.netlify.app)
 
 
 
