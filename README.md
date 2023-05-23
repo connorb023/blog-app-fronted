@@ -4,11 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoiscaleb&label=Profile%20views&color=0e75b6&style=flat" alt="whoiscaleb" /> </p>
 
 # Screenshots: 
-[Homepage](https://github.com/connorb023/blog-app-fronted/assets/126698422/308ece9d-ddec-4aa3-982d-361545625788)
 
-(https://github.com/connorb023/blog-app-fronted/assets/126698422/da117ecf-7ac5-4a80-a89b-d30b6773e902)
 
 # Getting Started: 
+![Screenshot 2023-05-22 at 10 56 45 PM](https://github.com/connorb023/blog-app-fronted/assets/126698422/23ac1684-65c7-4500-882b-f3a943bb4e45)
 
  
 [Trello Board](https://trello.com/b/OjVGHIe1/blog-app)
