@@ -11,7 +11,7 @@
 # Getting Started: 
 
  
-[Trello Board:](https://trello.com/b/OjVGHIe1/blog-app)
+[Trello Board](https://trello.com/b/OjVGHIe1/blog-app)
 
 
 
