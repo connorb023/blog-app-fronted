@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoiscaleb&label=Profile%20views&color=0e75b6&style=flat" alt="whoiscaleb" /> </p>
 
 # Screenshots: 
-(https://github.com/connorb023/blog-app-fronted/assets/126698422/aba2f490-c3ff-450a-9e55-2c2cabc8929d)
+[Homepage](https://github.com/connorb023/blog-app-fronted/assets/126698422/308ece9d-ddec-4aa3-982d-361545625788)
 
 (https://github.com/connorb023/blog-app-fronted/assets/126698422/da117ecf-7ac5-4a80-a89b-d30b6773e902)
 
