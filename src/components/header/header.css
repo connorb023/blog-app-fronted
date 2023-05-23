@@ -7,7 +7,7 @@
     flex-direction: column;
     align-items: center;
     font-family: "Lora", serif;
-    color: #444;
+    color: hsl(0, 10%, 89%);
   }
   
   .headerTitleSm {
